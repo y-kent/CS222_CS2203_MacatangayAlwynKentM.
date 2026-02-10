@@ -8,4 +8,4 @@ double Rate = double.Parse(Console.ReadLine());
 
 double Euro = USD * Rate;
 
-Console.WriteLine("Amount in EUR: {0:F2}", eurAmount);
+Console.WriteLine("Amount in EUR: {0:F2}", Euro);
