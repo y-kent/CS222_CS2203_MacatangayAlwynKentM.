@@ -1,6 +1,6 @@
 ﻿using System;
 
-class PentagonC
+class Pentagon
 {
     private double side;
 
@@ -41,4 +41,5 @@ class PentagonC
         Console.WriteLine("-------------------------");
         pentagon2.Display();
     }
+
 }
