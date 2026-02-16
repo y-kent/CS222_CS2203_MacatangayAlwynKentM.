@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AOOP\PentagonClass\obj\Debug\net8.0\PentagonClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AOOP\PentagonClass\obj\Debug\net8.0\PentagonClass.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AOOP\PentagonClass\obj\Debug\net8.0\PentagonClass.AssemblyInfo.cs
+C:\Users\User\source\repos\AOOP\PentagonClass\obj\Debug\net8.0\PentagonClass.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AOOP\PentagonClass\bin\Debug\net8.0\PentagonClass.exe
+C:\Users\User\source\repos\AOOP\PentagonClass\bin\Debug\net8.0\PentagonClass.deps.json
+C:\Users\User\source\repos\AOOP\PentagonClass\bin\Debug\net8.0\PentagonClass.runtimeconfig.json
+C:\Users\User\source\repos\AOOP\PentagonClass\bin\Debug\net8.0\PentagonClass.dll
+C:\Users\User\source\repos\AOOP\PentagonClass\bin\Debug\net8.0\PentagonClass.pdb
+C:\Users\User\source\repos\AOOP\PentagonClass\obj\Debug\net8.0\PentagonClass.dll
+C:\Users\User\source\repos\AOOP\PentagonClass\obj\Debug\net8.0\refint\PentagonClass.dll
+C:\Users\User\source\repos\AOOP\PentagonClass\obj\Debug\net8.0\PentagonClass.pdb
+C:\Users\User\source\repos\AOOP\PentagonClass\obj\Debug\net8.0\PentagonClass.genruntimeconfig.cache
+C:\Users\User\source\repos\AOOP\PentagonClass\obj\Debug\net8.0\ref\PentagonClass.dll

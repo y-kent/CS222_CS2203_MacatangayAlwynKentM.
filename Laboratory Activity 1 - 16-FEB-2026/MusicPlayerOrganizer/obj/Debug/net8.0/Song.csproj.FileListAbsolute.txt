@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AOOP\Song\bin\Debug\net8.0\Song.exe
+C:\Users\User\source\repos\AOOP\Song\bin\Debug\net8.0\Song.deps.json
+C:\Users\User\source\repos\AOOP\Song\bin\Debug\net8.0\Song.runtimeconfig.json
+C:\Users\User\source\repos\AOOP\Song\bin\Debug\net8.0\Song.dll
+C:\Users\User\source\repos\AOOP\Song\bin\Debug\net8.0\Song.pdb
+C:\Users\User\source\repos\AOOP\Song\obj\Debug\net8.0\Song.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AOOP\Song\obj\Debug\net8.0\Song.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AOOP\Song\obj\Debug\net8.0\Song.AssemblyInfo.cs
+C:\Users\User\source\repos\AOOP\Song\obj\Debug\net8.0\Song.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AOOP\Song\obj\Debug\net8.0\Song.dll
+C:\Users\User\source\repos\AOOP\Song\obj\Debug\net8.0\refint\Song.dll
+C:\Users\User\source\repos\AOOP\Song\obj\Debug\net8.0\Song.pdb
+C:\Users\User\source\repos\AOOP\Song\obj\Debug\net8.0\Song.genruntimeconfig.cache
+C:\Users\User\source\repos\AOOP\Song\obj\Debug\net8.0\ref\Song.dll

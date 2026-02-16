@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Laboratory Activity 1 - 16-FEB-2026\MusicPlayerOrganizer\bin\Debug\net8.0\MusicPlayerOrganizer.exe
+C:\Users\User\source\repos\Laboratory Activity 1 - 16-FEB-2026\MusicPlayerOrganizer\bin\Debug\net8.0\MusicPlayerOrganizer.deps.json
+C:\Users\User\source\repos\Laboratory Activity 1 - 16-FEB-2026\MusicPlayerOrganizer\bin\Debug\net8.0\MusicPlayerOrganizer.runtimeconfig.json
+C:\Users\User\source\repos\Laboratory Activity 1 - 16-FEB-2026\MusicPlayerOrganizer\bin\Debug\net8.0\MusicPlayerOrganizer.dll
+C:\Users\User\source\repos\Laboratory Activity 1 - 16-FEB-2026\MusicPlayerOrganizer\bin\Debug\net8.0\MusicPlayerOrganizer.pdb
+C:\Users\User\source\repos\Laboratory Activity 1 - 16-FEB-2026\MusicPlayerOrganizer\obj\Debug\net8.0\MusicPlayerOrganizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Laboratory Activity 1 - 16-FEB-2026\MusicPlayerOrganizer\obj\Debug\net8.0\MusicPlayerOrganizer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Laboratory Activity 1 - 16-FEB-2026\MusicPlayerOrganizer\obj\Debug\net8.0\MusicPlayerOrganizer.AssemblyInfo.cs
+C:\Users\User\source\repos\Laboratory Activity 1 - 16-FEB-2026\MusicPlayerOrganizer\obj\Debug\net8.0\MusicPlayerOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Laboratory Activity 1 - 16-FEB-2026\MusicPlayerOrganizer\obj\Debug\net8.0\MusicPlayerOrganizer.dll
+C:\Users\User\source\repos\Laboratory Activity 1 - 16-FEB-2026\MusicPlayerOrganizer\obj\Debug\net8.0\refint\MusicPlayerOrganizer.dll
+C:\Users\User\source\repos\Laboratory Activity 1 - 16-FEB-2026\MusicPlayerOrganizer\obj\Debug\net8.0\MusicPlayerOrganizer.pdb
+C:\Users\User\source\repos\Laboratory Activity 1 - 16-FEB-2026\MusicPlayerOrganizer\obj\Debug\net8.0\MusicPlayerOrganizer.genruntimeconfig.cache
+C:\Users\User\source\repos\Laboratory Activity 1 - 16-FEB-2026\MusicPlayerOrganizer\obj\Debug\net8.0\ref\MusicPlayerOrganizer.dll
